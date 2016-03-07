@@ -15,6 +15,12 @@ This repository is meant to be forked, cloned, and played with. It contains the 
     └── variables.scss # variables file imported by style.scss
 ```
 
+#### Getting Started
+
+* Clone this repository and navigate to it.
+* Run `sass -w style/style.scss` to watch your Sass files.
+* Open `index.html` in your browser.
+
 #### Challenge: Break Points
 
 * Resize the window for `index.html` in your browser.
